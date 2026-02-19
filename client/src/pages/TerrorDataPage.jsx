@@ -1,7 +1,6 @@
 import NavBar from "../components/NavBar";
 import TerrorData from "../components/terrorData";
 
-// console.log(terrorData);
 function TerrorDataPage() {
   return (
     <div className="page">
